@@ -1,8 +1,4 @@
-# 📘 Ejercicio 5 – Guardar nombre temporal con Session Storage
-
-## Objetivo
-Aprender a usar **sessionStorage**, que guarda datos solo mientras la pestaña del navegador está abierta. Una vez que cierras la pestaña, la información se pierde.
-
+#  Ejercicio 5 – Guardar nombre temporal con Session Storage
 
 ## Explicación
 
